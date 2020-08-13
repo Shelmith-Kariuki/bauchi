@@ -17,3 +17,7 @@ Imports:
     dplyr
 URL: https://github.com/Shelmith-Kariuki/bauchi
 BugReports: https://github.com/Shelmith-Kariuki/bauchi/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
