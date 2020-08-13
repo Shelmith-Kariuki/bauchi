@@ -15,3 +15,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
 Imports: 
     dplyr
+URL: https://github.com/Shelmith-Kariuki/bauchi
+BugReports: https://github.com/Shelmith-Kariuki/bauchi/issues
